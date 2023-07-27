@@ -38,9 +38,9 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaakoub-h&show_icons=true&locale=en&layout=compact" alt="yaakoub-h" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaakoub-h&show_icons=true&locale=en&layout=compact" alt="yaakoub-h" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaakoub-h&" alt="yaakoub-h" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaakoub-h&" alt="yaakoub-h" /></p>
 
 
 <h2 style="color: #44AEFB">📞Connect with me:</h3>
