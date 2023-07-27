@@ -1,8 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Yaakoub Hamad</h1>
 <h3 align="center">A passionate Native Android Developer</h3>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://wallpaperaccess.com/full/3770579.jpg](https://3.bp.blogspot.com/-CdwLvHIOvF4/UENIjMD54oI/AAAAAAAAAjA/EBXcsEt-uaE/s1600/android%2Bwallpaper%2B3d%2B1.jpg)" alt="" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://3.bp.blogspot.com/-CdwLvHIOvF4/UENIjMD54oI/AAAAAAAAAjA/EBXcsEt-uaE/s1600/android%2Bwallpaper%2B3d%2B1.jpg)" alt="" /></a> </p>
 - 🌱 I’m currently learning **Java Spring Boot , MVVM Architecture**
 
 - 💬 Ask me about **Jetpack Compose, Java Spring Boot**
