@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> Yaakoub Hamad👨‍💻 </h1>
 <h3 align="center">Experienced Native Android Developer👨‍💻: Building Innovative  Mobile Applications📱</h3>
-![github_cover_banner](https://3.bp.blogspot.com/-CdwLvHIOvF4/UENIjMD54oI/AAAAAAAAAjA/EBXcsEt-uaE/s1600/android%2Bwallpaper%2B3d%2B1.jpg)
+![github_cover_banner](ezgif.com-add-text.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     👋 Hello! I'm Yaakoub Hamad, an experienced Native Android Developer with a passion for crafting exceptional mobile experiences. My expertise lies in leveraging the power of Jetpack Compose and MVVM architecture to build innovative and user-friendly applications. With a keen eye for design and a commitment to creating seamless user interfaces, I take pride in transforming ideas into reality.
