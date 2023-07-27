@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> Yaakoub Hamad👨‍💻 </h1>
-
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+<h3 align="center">Experienced Native Android Developer👨‍💻: Building Innovative  Mobile Applications📱</h3>
+![github_cover_banner](https://3.bp.blogspot.com/-CdwLvHIOvF4/UENIjMD54oI/AAAAAAAAAjA/EBXcsEt-uaE/s1600/android%2Bwallpaper%2B3d%2B1.jpg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     👋 Hello! I'm Yaakoub Hamad, an experienced Native Android Developer with a passion for crafting exceptional mobile experiences. My expertise lies in leveraging the power of Jetpack Compose and MVVM architecture to build innovative and user-friendly applications. With a keen eye for design and a commitment to creating seamless user interfaces, I take pride in transforming ideas into reality.
@@ -14,7 +14,6 @@
 <br>
 <!-- Languages and Tools -->
 <h3 align="center">Experienced Native Android Developer👨‍💻: Building Innovative  Mobile Applications📱</h3>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://3.bp.blogspot.com/-CdwLvHIOvF4/UENIjMD54oI/AAAAAAAAAjA/EBXcsEt-uaE/s1600/android%2Bwallpaper%2B3d%2B1.jpg" alt="" /></a> </p>
 - 🌱 I’m currently learning **Java Spring Boot , MVVM Architecture**
 
 - 💬 Ask me about **Jetpack Compose, Java Spring Boot**
