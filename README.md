@@ -13,7 +13,6 @@
 </p>    
 <br>
 <!-- Languages and Tools -->
-<h3 align="center">Experienced Native Android Developer👨‍💻: Building Innovative  Mobile Applications📱</h3>
 - 🌱 I’m currently learning **Java Spring Boot , MVVM Architecture**
 
 - 💬 Ask me about **Jetpack Compose, Java Spring Boot**
