@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaakoub Hamad👨‍💻</h1>
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<h1 style="color: #44AEFB;"> Yaakoub Hamad👨‍💻 </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
