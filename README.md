@@ -1,103 +1,54 @@
-![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Mobile+Developer,;Computer Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<h3 align="center">
-        <samp>&gt; Hey There!, I am 
-                <b> Yaakoub <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
-        </samp>
-</h3>
+<h1 style="color: #44AEFB;"> Yaakoub Hamad👨‍💻 </h1>
+<h3 align="center">Experienced Native Android Developer👨‍💻: Building Innovative  Mobile Applications📱</h3>
+<img src="ezgif.com-add-text.gif" alt="github_cover_banner" />
 
-<p align="center">
- <a href="https://dev.to/m__mdy__m" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m__mdy__m" />
- </a>
- <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fm__mdy__m" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/_medishn_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="_medishn_" />
- </a> 
- <a href="https://m-mdy-m.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="m--mdy--m"  />
-  </a>
-  <a href="https://t.me/m_mdy_m" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="m--mdy--m"  />
-  </a> 
-  <a href="https://stackoverflow.com/users/19394098/mahdi" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="m--mdy--m"  />
-  </a> 
-</p>
-<br />
-
-
-<h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
-
-<p align="center">
-    👋 Hey there! I'm Yaakoub Hamad, a mobile developer passionate about creating engaging app experiences.
-    <br/><br/>
-    ✌️ <strong>Enjoy Programming and Sharing Knowledge</strong> <br/>
-    I love collaborating with fellow developers, exploring new technologies, and sharing insights.
-    <br/><br/>
-    ❤️ <strong>Love Coding and Learning</strong> <br/>
-    I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
-    <br/><br/>
-    📧 <strong>Reach Me Anytime</strong> <br/>
-    Have a question or suggestion? Drop me a line at yaakoubhamad2003@gmail.com.
-    <br/><br/>
-    💬 <strong>Ask Me About</strong> <br/>
-    Troubleshooting, brainstorming ideas, or anything related to mobile development.
-    <br/><br/>
-    💬 <strong>Ask Me About Anything Here</strong> <br/>
-    Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out I'm ready to dive into discussions on anything related to web development.
-</p>
-
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
-
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+    👋 Hello! I'm Yaakoub Hamad, an experienced Native Android Developer with a passion for crafting exceptional mobile experiences. My expertise lies in leveraging the power of Jetpack Compose and MVVM architecture to build innovative and user-friendly applications. With a keen eye for design and a commitment to creating seamless user interfaces, I take pride in transforming ideas into reality.
+<br>
+<br>
 <div align="center">
-        
-![java script](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+[Email Me](mailto:yaakoubhamad2003@gmail.com)
 </div>
+</p>    
+<br>
+<!-- Languages and Tools -->
+- 🌱 I’m currently learning **Java Spring Boot , MVVM Architecture**
+
+- 💬 Ask me about **Jetpack Compose, Java Spring Boot**
+
+- 📫 How to reach me **+96170474770 || yaakoubhamad2003@gmail.com**
+
+- ⚡ **every time you write code or work on a programming project, remember that you're continuing a legacy of innovation that has shaped the course of history! 🌕🚀✨**
+
+<!-- Languages and Tools -->
+
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br>   
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+<div align="center">
+ <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
+<br>
+<br>
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaakoub-h&show_icons=true&locale=en&layout=compact" alt="yaakoub-h" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaakoub-h&" alt="yaakoub-h" /></p>
+
+
+<h2 style="color: #44AEFB">📞Connect with me:</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
+<a href="https://linkedin.com/in/yaakoub hamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaakoub hamad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22245794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22245794" height="30" width="40" /></a>
+<a href="https://fb.com/yaakoub hamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yaakoub hamad" height="30" width="40" /></a>
+<a href="https://instagram.com/yaakoub haamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaakoub haamd" height="30" width="40" /></a>
+<a href="https://medium.com/@yaakoubhamad2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yaakoubhamad2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yaakoub_hamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaakoub_hamad" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-mdy-m&theme=radical" alt="Al Mahdi's GitHub Contribution" />
-</p>
-
-<p align="center">
-    <a href="https://github.com/m-mdy-m">
-        <img alt="Yaakoub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-    </a>
-    <a href="https://github.com/yaakoub-H">
-        <img alt="Al Mahdi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=m-mdy-m&langs_count=20&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
-</p>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&&section=footer"/>
-</p>
-
-
----
