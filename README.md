@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
-                <b> Mahdi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
+                <b> Yaakoub <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
         </samp>
 </h3>
 
@@ -34,7 +34,7 @@
 <h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
 
 <p align="center">
-    👋 Hey there! I'm Mahdi, a web developer passionate about creating engaging web experiences.
+    👋 Hey there! I'm Yaakoub Hamad, a mobile developer passionate about creating engaging app experiences.
     <br/><br/>
     ✌️ <strong>Enjoy Programming and Sharing Knowledge</strong> <br/>
     I love collaborating with fellow developers, exploring new technologies, and sharing insights.
@@ -43,10 +43,10 @@
     I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
     <br/><br/>
     📧 <strong>Reach Me Anytime</strong> <br/>
-    Have a question or suggestion? Drop me a line at mahdimamashli1383@gmail.com.
+    Have a question or suggestion? Drop me a line at yaakoubhamad2003@gmail.com.
     <br/><br/>
     💬 <strong>Ask Me About</strong> <br/>
-    Troubleshooting, brainstorming ideas, or anything related to web development.
+    Troubleshooting, brainstorming ideas, or anything related to mobile development.
     <br/><br/>
     💬 <strong>Ask Me About Anything Here</strong> <br/>
     Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out I'm ready to dive into discussions on anything related to web development.
@@ -85,9 +85,9 @@
 
 <p align="center">
     <a href="https://github.com/m-mdy-m">
-        <img alt="Al Mahdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+        <img alt="Yaakoub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
-    <a href="https://github.com/m-mdy-m">
+    <a href="https://github.com/yaakoub-H">
         <img alt="Al Mahdi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=m-mdy-m&langs_count=20&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
