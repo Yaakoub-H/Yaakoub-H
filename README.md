@@ -13,9 +13,9 @@
 </p>    
 <br>
 <!-- Languages and Tools -->
-- 🌱 I’m currently learning **Java Spring Boot , MVVM Architecture**
+- 🌱 I’m currently learning **Express JS + BloC State management**
 
-- 💬 Ask me about **Jetpack Compose, Java Spring Boot**
+- 💬 Ask me about **Flutter, Express JS**
 
 - 📫 How to reach me **+96170474770 || yaakoubhamad2003@gmail.com**
 
